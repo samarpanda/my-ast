@@ -1,2 +1,3 @@
-# my-ast
-Abstract Syntax Tree(AST) applications using Esprima
+# Abstract Syntax Tree(AST) Applications
+
+> Try using Esprima
